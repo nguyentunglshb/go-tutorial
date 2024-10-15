@@ -1,3 +1,3 @@
-module go-tutotial
+module go-tutorial
 
 go 1.22
